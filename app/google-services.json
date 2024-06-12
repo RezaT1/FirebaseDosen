@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "171385591800",
+    "firebase_url": "https://fir-dosen-61fb6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-dosen-61fb6",
+    "storage_bucket": "fir-dosen-61fb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171385591800:android:600ae31b3df2074016280d",
+        "android_client_info": {
+          "package_name": "com.pab.firebasedosen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCBsV39Vt8OTtpVj6e8eevvFJg5dElHG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
